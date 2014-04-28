@@ -230,7 +230,7 @@ __END__
 
 =head1 NAME
 
-Apache2::WebApp - Simplified web application framework
+Apache2::WebApp - Simplified web application framework - EOL (for reference only)
 
 =head1 SYNOPSIS
 
